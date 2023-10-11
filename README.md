@@ -2,7 +2,7 @@
 - 👀  Estou interessado em estudar
 - 🌱 Atualmente estou aprendendo pensamento computacional
 - 💞️ procuro colaborar na aula
-- 📫 como chegar ate mim
+  
 
 <!---
 JeniferLemkuhll/JeniferLemkuhll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
